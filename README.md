@@ -24,7 +24,6 @@ I will be using Shorthand to present the data. Ideally, I will have a general ov
 
 Immigration is critical part of the US economic and cultural growth and we should advocate for better immigration policies to enhance the number of immigrants into the United States. 
 
-*My thought process is that the immigration system has been a controversial topic in the last decade, and that the US Congress should create a better immigration system that works more efficienctly. We are seeing stagnated levels of immigration which doesn't reflect the level of populatiion growth worldwide or amount of immigrant applications to the United States.*
 
 #### What should Readers Understand
 
@@ -32,3 +31,8 @@ My thought process is that the immigration system has been a controversial topic
 
 In short, I would like to convey why the topic of immigration is important and advocate for improving our immigration policies. 
 
+### Call To Action
+
+I would like to use this as a way to inform people why immigration reform is important. I would like to ask citizens to advocate their local, state, and federal representatives to take action. 
+
+*This call to action could be expanded or worked on, but other than advocating directly to our representatives there's not a lot the general population can change about this specific topic.*
