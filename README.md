@@ -1,6 +1,6 @@
 # Final-Project
 
-Part I: a project proposal.  An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (Draft #1: Due 2/9)
+#Part I: a project proposal.  An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (Draft #1: Due 2/9)
 
 ## Outline of Project
 
@@ -42,3 +42,7 @@ In short, I would like to convey why the topic of immigration is important and a
 I would like to use this as a way to inform people why immigration reform is important. I would like to ask citizens to advocate their local, state, and federal representatives to take action. 
 
 *This call to action could be expanded or worked on, but other than advocating directly to our representatives there's not a lot the general population can change about this specific topic.*
+
+# Part II Wireframes, Storyboards, Moodboards, and User Research
+
+For the user research on my wireframs and story arc I used a seperate GitHub page linked <a href="https://www.dhs.gov/immigration-statistics/yearbook/2018" target="_blank">here</a> which allowed me to present the rough ideas to my interviewees without providing the entire story. This helped in narrowing the provided information to just the graphics and brief descriptions focusing the responses on whether or not the graphics would be effective/useful. 
